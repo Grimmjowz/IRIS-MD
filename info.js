@@ -51,7 +51,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS || '.',
     INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://pornhub.com',
-    SUDO: process.env.SUDO || '8803879908341',
+    SUDO: process.env.SUDO || '083879908341',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'public',
